@@ -1,0 +1,1 @@
+This project focuses on classifying clinical abstracts into predefined categories using word embeddings (Skip-gram and FastText) and a neural network classifier. It combines semantic text representation with deep learning for effective medical text categorization.
